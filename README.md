@@ -38,12 +38,8 @@ The project demonstrates the use of **Generative AI, RAG (Retrieval-Augmented Ge
 ```text
 AI-Food-Waste-Reduction-Assistant/
 │
-├── docs/
-│   ├── architecture.txt
-│   └── prototype_notes.md
-│
+|
 ├── app.py
-├── demo_script.txt
 ├── project_description.txt
 ├── requirements.txt
 ├── sample_data.csv
