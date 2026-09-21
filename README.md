@@ -4,7 +4,11 @@
 
 The **AI Food Waste Reduction Assistant** is an AI-powered sustainability web application that helps users reduce avoidable food waste by managing their food inventory, identifying food items that should be used soon, and generating meal suggestions.
 
-The project demonstrates the use of **Generative AI, RAG (Retrieval-Augmented Generation), Agentic AI, and recommendation techniques** to address a real-world environmental challenge aligned with **UN Sustainable Development Goal 12 – Responsible Consumption and Production**.
+The project demonstrates the use of **Generative AI, RAG (Retrieval-Augmented Generation), Agentic AI, and recommendation techniques** to address a real-world sustainability challenge aligned with **UN Sustainable Development Goal 12 – Responsible Consumption and Production**.
+
+## 🚀 Live Demo
+
+🔗 **[Click here to try the live application](https://ai-food-waste-reduction-assistant-c9nb77w7kqpwly6rgihbmy.streamlit.app/)**
 
 ## 🚀 Features
 
@@ -36,9 +40,8 @@ The project demonstrates the use of **Generative AI, RAG (Retrieval-Augmented Ge
 ## 📂 Project Structure
 
 ```text
-AI-Food-Waste-Reduction-Assistant/
+AI-Food-Waste-Reduction-Assistant.
 │
-|
 ├── app.py
 ├── project_description.txt
 ├── requirements.txt
@@ -146,6 +149,14 @@ This AI Food Waste Reduction Assistant can be used for:
 * Responsible Consumption Education
 * Food Inventory Management
 
+## 🌐 Deployment
+
+The application is deployed using **Streamlit Community Cloud**, allowing users to access the prediction system through a public web URL.
+
+### Live Application
+
+🔗 **[https://ai-food-waste-reduction-assistant-c9nb77w7kqpwly6rgihbmy.streamlit.app/](https://ai-food-waste-reduction-assistant-c9nb77w7kqpwly6rgihbmy.streamlit.app/)**
+
 ### Deployment Configuration
 
 **Main File:**
@@ -160,7 +171,7 @@ app.py
 requirements.txt
 ```
 
-The application can be connected to the GitHub repository so that future updates can be deployed by pushing changes to the configured GitHub branch.
+The application is connected to the GitHub repository, so future updates can be deployed by pushing changes to the configured GitHub branch.
 
 ## 📈 Expected Impact
 
@@ -177,6 +188,10 @@ The project aims to:
 
 If you found this project useful, please give it a ⭐ on GitHub!
 
+### 🔗 GitHub Repository
 
-```
-```
+**[https://github.com/Thanvikacham30/AI-Food-Waste-Reduction-Assistant](https://github.com/Thanvikacham30/AI-Food-Waste-Reduction-Assistant)**
+
+### 🔗 Live Demo
+
+**[https://ai-food-waste-reduction-assistant-c9nb77w7kqpwly6rgihbmy.streamlit.app/](https://ai-food-waste-reduction-assistant-c9nb77w7kqpwly6rgihbmy.streamlit.app/)**
