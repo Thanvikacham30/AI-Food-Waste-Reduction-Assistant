@@ -1,0 +1,16 @@
+User
+  |
+  v
+Food Inventory / Image
+  |
+  v
+Agentic Workflow
+  |----> Priority Analysis
+  |----> RAG Knowledge Retrieval
+  |----> Recommendation Generation
+  |
+  v
+Meal Idea + Storage Guidance + Sustainability Tip
+  |
+  v
+User Action

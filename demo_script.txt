@@ -1,0 +1,13 @@
+1-MINUTE DEMO SCRIPT
+
+Hello, my project is the AI Food Waste Reduction Assistant, aligned primarily with SDG 12: Responsible Consumption and Production.
+
+Food can be wasted when people forget what they already have or do not know which ingredients should be used first.
+
+In this prototype, the user adds food items to an inventory. The AI workflow analyzes the inventory, prioritizes items that need attention, retrieves relevant storage guidance, and generates a meal idea using available ingredients.
+
+The project demonstrates RAG through a local sustainability knowledge base and an Agentic AI-style sequence that coordinates inventory analysis, retrieval, and recommendation.
+
+A future version can connect IBM Granite for generative responses and a computer-vision model to identify groceries from photos.
+
+The goal is to help people use what they already have, make better purchasing decisions, and reduce avoidable food waste.

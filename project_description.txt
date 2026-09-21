@@ -1,0 +1,17 @@
+AI-Powered Food Waste Reduction Assistant
+
+Problem:
+People often waste food because they forget what they have, purchase duplicates, or do not know which items should be used first.
+
+Solution:
+A simple AI-assisted inventory and meal-planning tool that prioritizes food items, suggests meals using existing ingredients, and retrieves storage/waste-reduction guidance.
+
+Primary SDG:
+SDG 12 – Responsible Consumption and Production
+
+Additional SDGs:
+SDG 2 – Zero Hunger
+SDG 13 – Climate Action
+
+AI:
+Generative AI, RAG, Agentic AI workflow, recommendation logic, and an optional computer-vision extension.
